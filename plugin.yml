@@ -1,0 +1,14 @@
+name: Heal-Feed 
+author: Fan
+main: HealFeedByFan\Main
+api: [3.0.0, 4.0.0]
+version: 1.0 
+
+commands: 
+  heal: 
+    description: "Command de Heal"
+    permission: heal.cmd 
+  
+  feed:
+    description: "Command de Feed"
+    permission: feed.cmd
