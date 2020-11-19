@@ -1,0 +1,15 @@
+#message que vous ete bien feed
+succes-feed: "Vous êtes bien feed"
+
+#message que vous ete bien heal
+succes-heal: "Vous êtes bien heal"
+
+#message que vous n'aver pas la perm de feed
+error-feed: "Vous n'avez pas la permission"
+
+#message que voys n'avez pas la perm de heal
+error-heal: "Vous n'avez pas la permission" 
+
+#message d'erreur si vous ete dans la console
+on-console: "Vous d'evez executer la command en jeu"
+
